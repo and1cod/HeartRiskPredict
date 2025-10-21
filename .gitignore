@@ -1,0 +1,18 @@
+# env
+.venv/
+venv/
+
+# python cache
+__pycache__/
+*.pyc
+
+# ide
+.idea/
+.ipynb_checkpoints/
+
+# outputs
+artifacts/
+data/
+*.csv
+*.pkl
+*.model
