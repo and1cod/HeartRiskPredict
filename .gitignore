@@ -16,3 +16,4 @@ data/
 *.csv
 *.pkl
 *.model
+*.py
